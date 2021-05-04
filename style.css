@@ -1,0 +1,31 @@
+.contacts li a.twitter:hover {
+  color: #1da1f2;
+}
+
+.contacts li a.instagram:hover {
+  color: #c22f97;
+}
+
+.ava {
+  content: url(../images/Ryu.png);
+  padding: 0.25rem;
+  background-color: rgb(230, 230, 230);
+  border: 1px solid #b4b4b4;
+  border-radius: 0.25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.ava:hover {
+  content: url(../images/RyuSmiling.png);
+  padding: 0.25rem;
+  background-color: rgb(212, 212, 212);
+  border: 1px solid #353535;
+  border-radius: 0.25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.mini-img {
+  width: 0.8em;
+}
