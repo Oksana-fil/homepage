@@ -1,9 +1,11 @@
 .contacts li a.twitter:hover {
     color: #1da1f2;
   }
+  
   .contacts li a.instagram:hover {
     color: #c22f97;
   }
+  
   .ava {
     content: url(../images/Ryu.png);
     padding: 0.25rem;
